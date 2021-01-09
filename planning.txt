@@ -1,0 +1,8 @@
+Write function
+create new note 
+Save 
+
+
+Delete 
+
+
